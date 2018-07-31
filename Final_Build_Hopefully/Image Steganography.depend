@@ -1,0 +1,152 @@
+# depslib dependency file v1.0
+1532795983 source:c:\users\ashis\onedrive\desktop\new folder\image steganography\encodeanddecode.cpp
+	"encodeanddecode.h"
+
+1532789869 c:\users\ashis\onedrive\desktop\new folder\image steganography\encodeanddecode.h
+	<iostream>
+	<vector>
+	<string>
+
+1531397411 source:c:\users\ashis\onedrive\desktop\new folder\image steganography\encryption.cpp
+	"encryption.h"
+
+1531387196 c:\users\ashis\onedrive\desktop\new folder\image steganography\encryption.h
+	<string>
+
+1532795650 source:c:\users\ashis\onedrive\desktop\new folder\image steganography\rgbreader.cpp
+	"rgbreader.h"
+
+1532795119 c:\users\ashis\onedrive\desktop\new folder\image steganography\rgbreader.h
+	<stdio.h>
+	<stdlib.h>
+	"common.h"
+	"encodeanddecode.h"
+	"encryption.h"
+
+1532790033 c:\users\ashis\onedrive\desktop\new folder\image steganography\common.h
+
+1532794776 source:c:\users\ashis\onedrive\desktop\new folder\image steganography\mainprog.cpp
+	"rgbreader.h"
+	<limits>
+
+1532795983 source:c:\users\ashis\onedrive\desktop\final_build_hopefully\encodeanddecode.cpp
+	"encodeanddecode.h"
+
+1532789869 c:\users\ashis\onedrive\desktop\final_build_hopefully\encodeanddecode.h
+	<iostream>
+	<vector>
+	<string>
+
+1531397411 source:c:\users\ashis\onedrive\desktop\final_build_hopefully\encryption.cpp
+	"encryption.h"
+
+1531387196 c:\users\ashis\onedrive\desktop\final_build_hopefully\encryption.h
+	<string>
+
+1532794776 source:c:\users\ashis\onedrive\desktop\final_build_hopefully\mainprog.cpp
+	"rgbreader.h"
+	<limits>
+
+1532795119 c:\users\ashis\onedrive\desktop\final_build_hopefully\rgbreader.h
+	<stdio.h>
+	<stdlib.h>
+	"common.h"
+	"encodeanddecode.h"
+	"encryption.h"
+
+1532790033 c:\users\ashis\onedrive\desktop\final_build_hopefully\common.h
+
+1532795650 source:c:\users\ashis\onedrive\desktop\final_build_hopefully\rgbreader.cpp
+	"rgbreader.h"
+
+1532795983 source:c:\users\dell\desktop\final_build_hopefully\encodeanddecode.cpp
+	"encodeanddecode.h"
+
+1532789869 c:\users\dell\desktop\final_build_hopefully\encodeanddecode.h
+	<iostream>
+	<vector>
+	<string>
+
+1532840112 source:c:\users\dell\desktop\final_build_hopefully\encryption.cpp
+	"encryption.h"
+
+1532840377 c:\users\dell\desktop\final_build_hopefully\encryption.h
+	<string>
+
+1532840427 source:c:\users\dell\desktop\final_build_hopefully\mainprog.cpp
+	"rgbreader.h"
+	<limits>
+
+1532795119 c:\users\dell\desktop\final_build_hopefully\rgbreader.h
+	<stdio.h>
+	<stdlib.h>
+	"common.h"
+	"encodeanddecode.h"
+	"encryption.h"
+
+1532790033 c:\users\dell\desktop\final_build_hopefully\common.h
+
+1532840468 source:c:\users\dell\desktop\final_build_hopefully\rgbreader.cpp
+	"rgbreader.h"
+
+1532795983 source:d:\backups\project\final project\final_build_hopefully\encodeanddecode.cpp
+	"encodeanddecode.h"
+
+1532789869 d:\backups\project\final project\final_build_hopefully\encodeanddecode.h
+	<iostream>
+	<vector>
+	<string>
+
+1532840112 source:d:\backups\project\final project\final_build_hopefully\encryption.cpp
+	"encryption.h"
+
+1532840377 d:\backups\project\final project\final_build_hopefully\encryption.h
+	<string>
+
+1532842031 source:d:\backups\project\final project\final_build_hopefully\mainprog.cpp
+	"rgbreader.h"
+	<conio.h>
+	<limits>
+
+1532795119 d:\backups\project\final project\final_build_hopefully\rgbreader.h
+	<stdio.h>
+	<stdlib.h>
+	"common.h"
+	"encodeanddecode.h"
+	"encryption.h"
+
+1532790033 d:\backups\project\final project\final_build_hopefully\common.h
+
+1532840468 source:d:\backups\project\final project\final_build_hopefully\rgbreader.cpp
+	"rgbreader.h"
+
+1532795983 source:c:\users\neha\desktop\final_build_hopefully\encodeanddecode.cpp
+	"encodeanddecode.h"
+
+1532789869 c:\users\neha\desktop\final_build_hopefully\encodeanddecode.h
+	<iostream>
+	<vector>
+	<string>
+
+1532840112 source:c:\users\neha\desktop\final_build_hopefully\encryption.cpp
+	"encryption.h"
+
+1532840377 c:\users\neha\desktop\final_build_hopefully\encryption.h
+	<string>
+
+1532843923 source:c:\users\neha\desktop\final_build_hopefully\mainprog.cpp
+	"rgbreader.h"
+	<limits>
+
+1532795119 c:\users\neha\desktop\final_build_hopefully\rgbreader.h
+	<stdio.h>
+	<stdlib.h>
+	"common.h"
+	"encodeanddecode.h"
+	"encryption.h"
+
+1532790033 c:\users\neha\desktop\final_build_hopefully\common.h
+
+1532840468 source:c:\users\neha\desktop\final_build_hopefully\rgbreader.cpp
+	"rgbreader.h"
+
