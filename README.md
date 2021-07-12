@@ -1,4 +1,4 @@
-# First_Year_Second_Sem_Project_Image_Steganography_C
+# Image_Steganography_C
 
 This is the project our team did in second semester in C++. This is the final source code . This project is called "Image Steganography". This only works for 24-bit bmp images.
 
